@@ -1,0 +1,12 @@
+.item-add-form {
+   margin-top: 10px;
+   display: flex;
+}
+
+.form-control {
+   margin-right: 5px;
+}
+
+.fa {
+   font-size: 17px;
+}
